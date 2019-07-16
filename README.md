@@ -1,2 +1,2 @@
 # jenkins
-new tes47
+new tes
